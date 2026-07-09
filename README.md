@@ -1,16 +1,22 @@
-## Hi there 👋
+# Boris Giller
 
-<!--
-**borisgiller/borisgiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build AI agents, local-market tools, and playful browser experiments.
 
-Here are some ideas to get you started:
+Current public proof:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Firedancer](https://github.com/borisgiller/firedancer) - webcam-driven party and projection visuals for playful installations.
+- [borisgiller.com](https://borisgiller.com) - a lightweight map of what I am building now.
+
+Open-source cleanup queue:
+
+- Beam2Brain - AI lesson compiler and player.
+- Headtracking Shooter - camera-controlled physical-play browser game.
+- Party installation apps - projection visuals, camera effects, and interactive room experiments.
+
+Not everything belongs here. Trading research, internal business tools, client-specific work, and old experiments stay private until there is a clean public artifact worth sharing.
+
+Links:
+
+- Website: [borisgiller.com](https://borisgiller.com)
+- LinkedIn: [boris-giller-38192911](https://www.linkedin.com/in/boris-giller-38192911/)
+- X: [@BorisGiller](https://x.com/BorisGiller)
