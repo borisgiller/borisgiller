@@ -15,4 +15,4 @@ Post-exit founder in Puerto Escondido. I build AI systems, useful software, loca
 - [LinkedIn](https://www.linkedin.com/in/borisgiller/)
 - [X](https://x.com/BorisGiller)
 - [Instagram](https://www.instagram.com/borisgiller/)
-- [YouTube](https://www.youtube.com/@BorisGillerBuilds)
+- [YouTube](https://www.youtube.com/@borisgiller-g1s)
